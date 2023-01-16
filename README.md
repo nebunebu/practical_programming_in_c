@@ -18,23 +18,23 @@ This schedule is tenative.
   - Writing, compiling, and debugging C programs
   - Hello world
 - Assignments:
-  - PSet 1 out
+  - [PSet 1 out](assignments/assn01.pdf)
 - Labs & Projects:
-  - Project 1 out
-  - Final Project out
+  - [Project 1 out](labs_and_projects/lab01.pdf)
+  - [Final Project out](labs_and_projects/final_project.pdf)
 
 ### Wed Jan 18 2023
 
-- Lecture 02
+- [Lecture 02](lectures/lec02.pdf)
 - Topics:
   - Variables and datatypes, operators
 - Assignments:
   - Problem set 1 due
-  - Problem set 2 out
+  - [PSet 2 out](assignments/assn02.pdf)
 
 ### Fri Jan 20 2023
 
-- Lecture 03
+- [Lecture 03](lectures/lec03.pdf)
 - Topics:
   - Control flow
   - Functions and modular programming
@@ -42,7 +42,7 @@ This schedule is tenative.
   - Static and global variables
 - Assignments:
   - Problem set 2 due
-  - Problem set 3 out
+  - [PSet 3 out](assignments/assn03.pdf)
 - Labs & Projects:
   - Lab 1: Game of Life
 
@@ -50,14 +50,14 @@ This schedule is tenative.
 
 ### Mon Jan 23 2023
 
-- Lecture 04
+- [Lecture 04](lectures/lec04.pdf)
 - Topics:
   - More control flow
   - Input and output
 
 ### Wed 25 Jan 2023
 
-- Lecture 05
+- [Lecture 05](lectures/lec05.pdf)
 - Topics:
   - Pointers and memory addressing
   - Arrays and pointer arithmetic
@@ -65,18 +65,18 @@ This schedule is tenative.
   - Searching and sorting algorithms
 - Assignments:
   - Problem set 3 due
-  - Problem set 4 out
+  - [PSet 4 out](assignments/assn04.pdf)
 
 ### Fri 27 Jan 2023
 
-- Lecture 06
+- [Lecture 06](lectures/lec06.pdf)
 - Topics:
   - User-defined datatypes, structs, unions, bitfields
   - Memory allocation
   - Linked lists, binary trees.
 - Assignments:
   - Problem set 4 due
-  - Problem set 5 out
+  - [PSet 5 out](assignments/assn05.pdf)
 - Labs & Projects:
   - Project 1 due
   - Project 2 out
@@ -85,7 +85,7 @@ This schedule is tenative.
 
 ### Mon 30 Jan 2023
 
-- Lecture 07
+- [Lecture 07](lectures/lec07.pdf)
 - Topics:
   - pointers to pointers
   - pointer and string arrays
@@ -93,27 +93,28 @@ This schedule is tenative.
   - Stacks and queues
 - Assignments:
   - Problem set 5 due
-  - Problem set 6 out
+  - [PSet 6a out](assignments/assn06a.pdf)
+  - [PSet 6b out](assignments/assn06b.pdf)
 - Labs & Projects:
   - Lab 2: Data compression
 
 ### Wed 01 Feb 2023
 
-- Lecture 08
+- [Lecture 08](lectures/lec08.pdf)
 - Topics:
   - Void and function pointers
   - Hash tables
 
 ### Fri 03 Feb 2023
 
-- Lecture 09
+- [Lecture 09](lectures/lec09.pdf)
 - Topics:
   - External Libraries
   - B-trees
   -Priotity queues
 - Assignments:
   - Problem set 6 due
-  - Problem set 7 out
+  - [PSet 7 out](assignments/assn07.pdf)
 - Labs and Projects:
   - Final project proposal due
 
@@ -121,7 +122,7 @@ This schedule is tenative.
 
 ### Mon 06 Feb 2023
 
-- Lecture 10
+- [Lecture 10](lectures/lec10.pdf)
 - Topics:
   - C standard library:
     - stdio.h
@@ -135,7 +136,7 @@ This schedule is tenative.
 
 ### Wed 08 Feb 2023
 
-- Lecture 11
+- [Lecture 11](lectures/lec11.pdf)
 - Topics:
   - Dynamic memory allocation
   - malloc and valgrind
@@ -143,7 +144,7 @@ This schedule is tenative.
 
 ### Fri 10 Feb 2023
 
-- Lecture 12
+- [Lecture 12](lectures/lec12.pdf)
 - Topics:
   - Multithreading and concurrency
 - Labs & Projects:
@@ -153,14 +154,14 @@ This schedule is tenative.
 
 ### Mon 13 Feb 2023
 
-- Lecture 13
+- [Lecture 13](lectures/lec13.pdf)
 - Topics:
   - Multithreaded programming
   - Sockets and asynchronous I/O
 
 ### Wed 15 Feb 2023
 
-- Lecture 14
+- [Lecture 14](lectures/lec14.pdf)
 - Topics:
   - Linux inter process communication
 - Labs & Projects:
