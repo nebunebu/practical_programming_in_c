@@ -12,7 +12,7 @@ This schedule is tenative.
 
 ### Mon Jan 16 2023
 
-- Lecture 01
+- [Lecture 01](lec01.pdf)
 - Topics:
   - Introduction
   - Writing, compiling, and debugging C programs
