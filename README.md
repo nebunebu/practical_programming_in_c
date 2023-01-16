@@ -8,6 +8,8 @@ for easy accessibility.
 
 This schedule is tenative.
 
+Solutions are ommitted as of now.
+
 ## Week 01
 
 ### Mon Jan 16 2023
