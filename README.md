@@ -3,7 +3,7 @@
 This repo is for organzing a group study of the MITOCW course
 [**Practical Programming in C**](https://ocw.mit.edu/courses/6-087-practical-programming-in-c-january-iap-2010/pages/syllabus/).
 
-Most, but not all, of the course resources are duplicated here
+Some of the course resources are duplicated here
 for easy accessibility.
 
 This schedule is tenative.
